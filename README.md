@@ -1,6 +1,6 @@
 # Warmer-nights-in-Montreal
 
-The lowest temperature in degrees Celsius observed each day in Montreal from 1980 through early/mid-August 2020. An increasing number of nights over 20 !
+## The lowest temperature in degrees Celsius observed each day in Montreal from 1980 through early/mid-August 2020. An increasing number of nights over 20 !
 
 Starting at 20 °C, nights are considered uncomfortable for sleeping in MTL. Yes I know, It's Canada, have a laugh, but this is partly how heatwaves are classified as such here.
 In Northern Quebec it's even lower, obviously in Florida this will be higher, and so on.
@@ -13,16 +13,16 @@ I then used ggplot2 and ggcal, which uses ggplot2's features to make a calendar 
 
 Finally, I finished everything up in Photoshop for both vizzes below (adding extra notes, credits, creating the gif).
 
-Here's a gif of the data visualization showing 5-year periods :
+## Here's a gif of the data visualization showing 5-year periods :
 
 ![](https://scarufel.com/wp-content/uploads/2020/08/Gifsum.gif)
 
-And here is the full visualization :
+## And here is the full visualization :
 
-![](https://scarufel.com/wp-content/uploads/2020/08/mtl-sum-nights-long2.png)
+![](https://scarufel.com/wp-content/uploads/2020/08/mtl-sum-nights-long3.png)
 
 Two script files can be found in this repo, a short one for the R console part, a second much longer one for the RStudio part.
 
 Enjoy! On my side, I always enjoy feedback!
-
-I'm on Twitter if there is anything @stevecarufel_
+ 
+I'm on Twitter if there is anything @stevecarufel_ https://twitter.com/stevecarufel_
