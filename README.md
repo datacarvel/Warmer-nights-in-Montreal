@@ -1,6 +1,6 @@
 # Warmer-nights-in-Montreal
 
-## The lowest temperature in degrees Celsius observed each day in Montreal from 1980 through early/mid-August 2020. An increasing number of nights over 20 !
+## The lowest temperature in degrees Celsius observed each day in Montreal from 1980 through early/mid-August 2020. An increasing number of nights over 20!
 
 Starting at 20 °C, nights are considered uncomfortable for sleeping in MTL. Yes I know, It's Canada, have a laugh, but this is partly how heatwaves are classified as such here.
 In Northern Quebec it's even lower, obviously in Florida this will be higher, and so on.
