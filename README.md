@@ -25,4 +25,4 @@ Two script files can be found in this repo, a short one for the R console part, 
 
 Enjoy! On my side, I always enjoy feedback!
  
-I'm on Twitter if there is anything @stevecarufel_ https://twitter.com/stevecarufel_
+I'm on Twitter if there is anything @stevecarufel_
