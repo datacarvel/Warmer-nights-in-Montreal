@@ -61,7 +61,7 @@ test <- coalesce(mtlsum_all_three$max_temp, mtlsum_all_three$max_temp30165)
   # 29 after taking values for the 30165 station into the 2 first non-overlapping, joined datasets
 
 # Just making sure here I understood what I did in the piped operation
-# Coalesce is useful for completing a dataset from missing pieces. All NA will be replaced with the non-NA if available, and it works both way.
+# Coalesce is useful for completing a dataset from missing pieces. All NA will be replaced with the non-NA if available, and it works both ways.
 # If there is a conflict between two values that aren't NA, the first dataset's value will be preserved (x in coalesce(x, y)), which is exactly what I want !
 
 Wario1 <- c(0, 1, 2, 3, NA) # I like Wario
