@@ -27,7 +27,7 @@ mtlsummers_clean51157 <- filter(mtlsummers_clean, station_id == 51157)
 
 library(ggcal)
 
-### Issues : there are a few major gaps in data, I am guessing those 3 stations and complete each other. 
+### Issues : there are a few major gaps in data, I am guessing those 3 stations complete each other. 
 # I'd like to know first which stations has the most gaps.
 
 sum(is.na(mtlsummers_clean30165$max_temp)) / nrow(mtlsummers_clean30165) # 22 % of NA
