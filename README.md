@@ -15,11 +15,11 @@ Finally, I finished everything up in Photoshop for both vizzes below (adding ext
 
 ## Here's a gif of the data visualization showing 5-year periods :
 
-![](https://scarufel.com/wp-content/uploads/2020/08/Gifsum.gif)
+![](https://www.stevecarufel.com/wp-content/uploads/2020/08/Gifsum.gif)
 
 ## And here is the full visualization :
 
-![](https://scarufel.com/wp-content/uploads/2020/08/mtl-sum-nights-long3.png)
+![](https://www.stevecarufel.com/wp-content/uploads/2020/08/mtl-sum-nights-long3.png)
 
 Two script files can be found in this repo, a short one for the R console part, a second much longer one for the RStudio part.
 
